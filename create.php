@@ -24,4 +24,4 @@ if ($conn->query($sql) === TRUE) {
 
 $conn->close();
 ?><br>
-<a href="index.html">Return to form</a>
+<a href="index.html">Return to home</a>
