@@ -200,3 +200,11 @@ footer{
     color: darkred;
     margin-bottom: 0px;
 }
+
+
+/* Carousel Image Scaling Rule */
+.carousel-img {
+    height: 500px; /* Adjust height as needed */
+    object-fit: cover;
+    object-position: center;
+}
