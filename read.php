@@ -11,4 +11,4 @@ while($row = $result->fetch_assoc()) {
 
 $conn->close();
 ?><br>
-<a href="index.html">Return to form</a>
+<a href="index.html">Return to home</a>
